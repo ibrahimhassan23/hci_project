@@ -45,7 +45,7 @@ class selectorpage extends StatelessWidget {
                 flex: 3,
               ),
               Text(
-                'Pick Your Role',
+                'Pick Your Role Now',
                 style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold),
               ),
               SizedBox(
